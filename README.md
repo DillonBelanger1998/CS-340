@@ -1,1 +1,11 @@
-# CS-340
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+Writing programs are making ones that can be updated and adapted based on what you need to do in further development. The CRUD python code was built up and used through the course and coulde be modified for more complex use in later projects if needed, it was a foundation for all the code made to function and was used as a tool. I could use this python file for databases in the future or make my own python file that is similar for whatever needs I have later. 
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+I approach problems by using troubleshooting skills. I look at the problem and focus on what needs to be done to fix this problem, what are the steps and what do I already know or have in order to help me fix this problem. I approahced my project differently as I had to think more outside the box sort of way. I looked up and did research on different commands and techniques I could do to achieve what was required. This let me brainstorm more and troubleshoot better to get the project done. I will use these same techqiues and knowledge from this course to add to my database experience in the future with compuer science. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer Scientists help build the foundations and functionality of the programs and servers and databases everyone uses today. Without these people to develop and maintain the modern technological infrastructure we have today, we would not be able to achieve what we can now. The kind of work I did in this course is always needed in many companies today, with so much data being digital now a days there needs to be people who can access and maintain all these databases. 
